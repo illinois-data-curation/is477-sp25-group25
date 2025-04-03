@@ -1,7 +1,5 @@
 # IS477 Project Plan
 
-## IS477 Final Project Plan
-
 ---
 
 ### **Overview**
