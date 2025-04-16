@@ -1,0 +1,3 @@
+- Merged FBI monthly arrest rates (averaged by year)
+- Merged with 2016 census employment population
+- Total records: 1
