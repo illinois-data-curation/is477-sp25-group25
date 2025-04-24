@@ -1,3 +1,5 @@
-- Merged FBI monthly arrest rates (averaged by year)
-- Merged with 2016 census employment population
-- Total records: 1
+- FBI arrest data averaged monthly to yearly.
+- Census multi-year data collected via API for 2012–2016.
+- Columns renamed and unnecessary fields removed.
+- Merged datasets on 'Year' column using pandas.merge().
+- Final dataset saved as results/merged.csv with 5 records and 4 columns.
