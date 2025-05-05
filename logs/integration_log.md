@@ -1,5 +1,5 @@
-- FBI arrest data averaged monthly to yearly.
-- Census multi-year data collected via API for 2012–2016.
+- FBI arrest data and census data averaged from yearly to monthly.
+- Census multi-year data collected via API for 2012–2016 by month.
 - Columns renamed and unnecessary fields removed.
-- Merged datasets on 'Year' column using pandas.merge().
-- Final dataset saved as results/merged.csv with 5 records and 4 columns.
+- Merged datasets on 'Year' column using pandas.merge() and "Month" Column.
+- Final dataset saved as results/merged.csv with 60 rows and several columns.
