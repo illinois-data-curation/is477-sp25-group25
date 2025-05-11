@@ -1,0 +1,6 @@
+python-dotenv
+pandas
+matplotlib
+seaborn
+snakemake
+requests
