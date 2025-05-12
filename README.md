@@ -1,7 +1,7 @@
 # is477-sp25-group25
 Eric Zhang and Gregory Peng
 
-DOI: 10.5281/zenodo.15385703
+[![DOI](https://zenodo.org/badge/948292320.svg)](https://doi.org/10.5281/zenodo.15384905)
 
 # Reproducibility Instructions
 
