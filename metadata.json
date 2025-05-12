@@ -1,0 +1,10 @@
+{
+    "title": "Crime vs. Population Analysis Pipeline",
+    "authors": ["YOUR_NAME"],
+    "date": "2025-05-11",
+    "description": "Full Snakemake workflow: fetch FBI & Census data, merge, profile, clean, and analyze crime rates over time.",
+    "dependencies": ["requirements.txt"],
+    "workflow": ["Snakefile"],
+    "data_dictionary": "datadictionary.md",
+    "checksums": "checksums/"
+  }

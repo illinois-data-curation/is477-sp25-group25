@@ -61,6 +61,15 @@ rule all:
         "results/arrest_rate_trend.png",
         "results/unemployment_rate_trend.png"
 
+rule merge:
+    input:
+        fbi="data/fbi_monthly.csv",
+        census="data/census_multi_year.csv"
+    output:
+        "results/merged.csv"
+    script:
+        "scripts/manual_merge.py"
+
 rule profile:
     input:
         "results/merged.csv"
