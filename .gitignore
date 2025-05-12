@@ -9,7 +9,6 @@ env/
 venv/
 
 # Data & results
-data/
 results/
 
 # Env file
