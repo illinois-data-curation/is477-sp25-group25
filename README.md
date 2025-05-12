@@ -6,7 +6,7 @@ Eric Zhang and Gregory Peng
 # Reproducibility Instructions
 
 1. Clone this repository
-2. Download data from Box: https://uofi.app.box.com/s/xpdb4v0tc4ou6dc3v4bw4oaj1cq6tjd6
+2. Download data and scripts from Box: https://uofi.app.box.com/s/xpdb4v0tc4ou6dc3v4bw4oaj1cq6tjd6
 3. Set up Virtual Environment
 4. Run `pip install -r requirements.txt` to install dependencies.
 5. Run `snakemake --cores 1` to reproduce outputs.
